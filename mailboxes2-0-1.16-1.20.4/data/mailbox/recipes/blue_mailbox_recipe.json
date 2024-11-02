@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "HRR",
+        " B "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tripwire_hook"
+        },
+        "H": {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        "R": {
+            "item": "minecraft:blue_terracotta"
+        },
+        "B": {
+            "tag": "minecraft:fences"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"criteria":{
+		"yellowMailboxUnlocked":{			
+			"trigger":"minecraft:recipe_unlocked",
+			"conditions":{
+				"recipe":"mailbox:red_mailbox_recipe"
+			}
+		}
+	},
+	"rewards":{
+		"function":"mailbox:crafted_mailbox/red"
+	}
+}
