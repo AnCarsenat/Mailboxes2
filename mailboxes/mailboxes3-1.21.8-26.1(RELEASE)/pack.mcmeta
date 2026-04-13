@@ -1,0 +1,36 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "📬 ",
+        "bold": true
+      },
+      {
+        "text": "Mailboxes",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": " 📬",
+        "bold": true
+      },
+      {
+        "text": "\nBy Ancarsenat",
+        "color": "gray"
+      },
+      {
+        "text": "\nThanks to FuriousBird!",
+        "color": "aqua",
+        "italic": true
+      }
+    ],
+    "pack_format": 81,
+    "supported_formats": {
+      "min_inclusive": 81,
+      "max_inclusive": 95
+    },
+    "min_format": 81,
+    "max_format": 95
+  }
+  }
+}

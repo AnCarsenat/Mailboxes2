@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "HRR",
+    " B "
+  ],
+  "key": {
+    "#": "minecraft:tripwire_hook",
+    "H": "minecraft:heavy_weighted_pressure_plate",
+    "R": "minecraft:gray_terracotta",
+    "B": "#minecraft:fences"
+  },
+  "result": {
+    "id": "minecraft:bat_spawn_egg",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "minecraft:gray_terracotta",
+      "minecraft:item_name": "Gray Mailbox",
+      "minecraft:custom_data": { "mailbox": { "color": "gray" } },
+      "minecraft:entity_data": {
+        "id": "minecraft:bat",
+        "Tags": ["ra.spawned", "ra.place.mailbox", "mailbox.gray"],
+        "Silent": true,
+        "NoAI": true,
+        "Invulnerable": true
+      }
+    }
+  },
+  "show_notification": true
+}
