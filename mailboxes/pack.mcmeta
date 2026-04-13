@@ -27,10 +27,10 @@
     "pack_format": 81,
     "supported_formats": {
       "min_inclusive": 81,
-      "max_inclusive": 95
+      "max_inclusive": 101.2
     },
     "min_format": 81,
-    "max_format": 95
+    "max_format": 101.2
   }
   }
 }
