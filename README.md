@@ -11,13 +11,13 @@
 1. **Crafting:**
    - Use the crafting recipe to create a mailbox spawn egg.
    - Place the mailbox where you'd like to receive items.
-   
+
 <kbd>
     <img width="200" class="autosize_img" src="https://github.com/AnCarsenat/Mailboxes2/blob/main/docs/images/recipes.gif?raw=true" alt="crafting recipes">
 </kbd>
 
 2. **Usage:**
-   - Drop items on the mailbox to teleport them one block below, allowing easy integration with hopper systems.
+   - Drop items on the mailbox to insert/teleport them one block below, allowing easy integration with storage/hopper systems.
 
 3. **Breaking the Mailbox:**
    - To remove, break the block under the mailbox. The mailbox will automatically destroy itself and drop the item back.
