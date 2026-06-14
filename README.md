@@ -26,4 +26,4 @@
 - The mailbox is a creative way to handle item transfers, ideal for players looking for a unique and fun way to collect items from friends or in multiplayer settings.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU General Public License v3.
